@@ -1,4 +1,4 @@
-PS C:\Users\sefas> echo "# Test_project" >> README.md
+ echo "# Test_project" >> README.md
 >> git init
 >> git add README.md
 >> git commit -m "first commit"
